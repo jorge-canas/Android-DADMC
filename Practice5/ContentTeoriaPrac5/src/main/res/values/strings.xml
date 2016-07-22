@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PracticaTema5Teoria</string>
+    <string name="action_settings">Settings</string>
+    <string name="tvDescription">Proveedor de contenido para Teoría</string>
+
+    <string name="tvNewSubject">Nombre asignatura</string>
+    <string name="btnAdd">Añadir</string>
+    <string name="tvId">Id</string>
+    <string name="tvName">Nombre</string>
+    <string name="tvDate">Fecha</string>
+    <string name="tvMarks">Nota</string>
+</resources>

@@ -1,0 +1,129 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:text="@string/url" />
+
+        <EditText
+            android:id="@+id/editText1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textUri"
+            android:text="http://www.tecnologia.net/wp-content/uploads/2015/05/Los-mejores-trucos-para-Android.png"
+            android:textSize="10sp" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/progreso" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ProgressBar
+            android:id="@+id/pbarProgreso"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="5dip"
+            android:layout_marginLeft="5dip"
+            android:layout_marginRight="5dip"
+            android:layout_weight="65"
+            android:indeterminate="false"
+            android:max="100" />
+
+        <Button
+            android:id="@+id/botontest"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="35"
+            android:background="#fdbcc7"
+            android:onClick="respondeClick"
+            android:text="@string/comprobar" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnSinHilos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:background="#adfffe"
+        android:onClick="SinHilosClick"
+        android:padding="8dp"
+        android:text="@string/sin_hilos" />
+
+    <Button
+        android:id="@+id/btnHilo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:background="#baff97"
+        android:onClick="ConHilosClick"
+        android:padding="8dp"
+        android:text="@string/nuevo_hilo" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/btnAsyncTask"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginRight="5dp"
+            android:background="#ffcfa3"
+            android:onClick="TareaAsincronaClick"
+            android:padding="8dp"
+            android:text="@string/nuevo_asynctask" />
+
+        <Button
+            android:id="@+id/btnCancelar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:background="#ffe29f"
+            android:onClick="TareaAsincronaCancelClick"
+            android:padding="8dp"
+            android:text="@string/cancelar" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnAsyncDialog"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:background="#8dff95"
+        android:onClick="TareaAsincronaDialogClick"
+        android:padding="8dp"
+        android:text="@string/asynctask_dialog" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:scaleType="centerInside"/>
+
+
+</LinearLayout>

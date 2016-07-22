@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practica3_2</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="title_activity_actividad_uno">ActividadUno</string>
+    <string name="title_activity_actividad_dos">ActividadDos</string>
+    <string name="edTxTonCreate">Llamadas a onCreate(): %d</string>
+    <string name="edTxTonStart">Llamadas a onStart(): %d</string>
+    <string name="edTxTonResume">Llamadas a onResume(): %d</string>
+    <string name="edTxTonRestart">Llamadas a onRestart(): %d</string>
+    <string name="btnActivityOne">Actividad DOS</string>
+    <string name="btnActivityTwo">Cerrar Actividad</string>
+    <string name="title_activity_activity_two">ActivityTwo</string>
+</resources>

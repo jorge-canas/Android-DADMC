@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PracticaTema5</string>
+    <string name="action_settings">Opciones</string>
+    <string name="tvChoose">Elija una opción para modificar la información de las asignaturas:</string>
+    <string name="btnTheory">Teoría</string>
+    <string name="btnPractice">Práctica</string>
+
+    <string name="title_activity_theory">Visualizar</string>
+
+    <string name="tvNewSubject">Nombre asignatura</string>
+    <string name="btnAdd">Añadir</string>
+    <string name="tvId">Id</string>
+    <string name="tvName">Nombre</string>
+    <string name="tvDate">Fecha</string>
+    <string name="tvMarks">Nota</string>
+    <string name="btnBack">Volver</string>
+</resources>

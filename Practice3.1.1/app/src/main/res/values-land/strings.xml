@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practica3.1</string>
+    <string name="action_settings">Opciones</string>
+    <string name="pushButtonText">Pulsa</string>
+    <plurals name="messageCountText">
+        <item quantity="zero">Sin mensajes aún</item>
+        <item quantity="one">Has introducido %d mensaje</item>
+        <item quantity="other">Has introducido %d mensajes</item>
+    </plurals>
+    <string name="messageArrayText">No se ha pulsado el botón</string>
+    <string name="messageArrayTextMens">&lt;b>Mensaje %1$d: &lt;/b></string>
+</resources>

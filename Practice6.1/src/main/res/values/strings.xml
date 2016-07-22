@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Practica6_1</string>
+    <string name="action_settings">Opciones</string>
+
+    <string name="tvCode">Código: &#32;</string>
+    <string name="tvName">Nombre: &#32;</string>
+    <string name="tvLastname">Apellidos: &#32;</string>
+    <string name="tvBirthday">Fecha Nac: &#32;</string>
+    <string name="tvSalary">Salario: &#32;</string>
+
+    <string name="btnFirst"> &#60;&#60;</string>
+    <string name="btnBack"> &#60; </string>
+    <string name="btnNumberOf">X de N </string>
+    <string name="btnLast">&#62;&#62;</string>
+    <string name="btnNext">&#62;</string>
+    <string name="btnAdd">Añadir</string>
+    <string name="btnUpdate">Editar</string>
+    <string name="btnDelete">Eliminar</string>
+    <string name="btnSelect">Consulta</string>
+
+    <string name="btnAccept">Aceptar</string>
+    <string name="btnCancel">Cancelar</string>
+    <string name="title_activity_consult">ConsultActivity</string>
+    <string name="btnSearchSalaryOption">=</string>
+    <string name="tvSalaryOption">Salario</string>
+
+    <string name="btnSearchBack">Filtrar y Volver</string>
+
+    <string name="btnSearchReset">Mostrar todos</string>
+</resources>

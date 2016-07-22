@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practica3.5.Crash</string>
+    <string name="action_settings">Opciones</string>
+    <string name="txtCrash">CRASH!!!!</string>
+    <string name="crash_perm_desc">Esta aplicación puede ser perjudicial para el sistema</string>
+    <string name="crash_perm_label">Crash label</string>
+</resources>

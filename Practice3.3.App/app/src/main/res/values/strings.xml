@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practica3.3.App</string>
+    <string name="action_settings">Opciones</string>
+    <string name="TxTvActivityResponse">No se ha introducido ningún texto</string>
+    <string name="btnImplicitActivity">Activación Implícita</string>
+    <string name="btnExplicitActivity">Activación Explícita</string>
+    <string name="btnResponse">Termina</string>
+    <string name="TxTvMessage">Has lanzado una intent explícito!</string>
+    <string name="title_activity_explicit_">Explicit_Activity</string>
+    <string name="chooser_title">Elije una opción:</string>
+</resources>

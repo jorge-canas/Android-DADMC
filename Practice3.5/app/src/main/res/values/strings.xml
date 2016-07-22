@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practica3.5</string>
+    <string name="action_settings">Opciones</string>
+    <string name="txtContacts">Aquí se cargarán los Contactos</string>
+    <string name="btnGetContacts">OBTENER LOS CONTACTOS</string>
+    <string name="btnLaunchCrash">LANZAR ACTIVIDAD CRASH</string>
+</resources>

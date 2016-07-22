@@ -1,0 +1,13 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context="dadmc.practica34.Mostrador"
+    android:orientation="vertical"
+    android:background="@color/colorMostrador">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView android:layout_width="match_parent" android:layout_height="match_parent"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/txtPoem"/>
+
+</LinearLayout>

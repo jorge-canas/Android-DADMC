@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practica8_2</string>
+    <string name="action_settings">Opciones</string>
+    <string name="tvName">Nombre foto:&#32;&#32;</string>
+    <string name="etName"></string>
+    <string name="btnNamedPicture">Foto con nombre</string>
+    <string name="btnUnnamedPicture">Foto sin nombre</string>
+    <string name="tvSeconds">Segundos video:&#32;&#32;</string>
+    <string name="etSeconds">5</string>
+    <string name="cbHighDefinition">¿Alta calidad?</string>
+    <string name="btnVideo">Grabar Video</string>
+    <string name="btnFTP">Subir FTP</string>
+</resources>

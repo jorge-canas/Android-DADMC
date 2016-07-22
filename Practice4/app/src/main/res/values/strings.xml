@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Pract4</string>
+    <string name="action_settings">Settings</string>
+    <!-- Botones main -->
+    <string name="btnColorSelector">Selector colores</string>
+    <string name="btnForm">Formulario</string>
+    <string name="btnSudoku">Sudoku</string>
+
+    <!-- Formulario -->
+    <string name="tvName">Nombre: </string>
+    <string name="tvSurname">Apellidos: </string>
+    <string name="tvColor">Color: </string>
+    <string name="tvImage">Avatar: </string>
+    <string name="tvBirthday">Fecha Nacimiento: </string>
+    <string name="tvShowBirthday"></string>
+    <string name="btnBirthday">Introducir fecha: </string>
+    <string name="btnSend">Enviar</string>
+    <string name="title_activity_see_form">SeeFormActivity</string>
+    <string name="title_activity_form">FormActivity</string>
+    <string name="btnPick">Elegir avatar</string>
+
+    <!-- Color selector -->
+    <string name="tvRed">Rojo</string>
+    <string name="tvGreen">Verde</string>
+    <string name="tvBlue">Azul</string>
+    <string name="btnChange">Cambiar Color</string>
+    <string name="title_activity_color_selector">Selector Color</string>
+    <string name="title_activity_sudoku">Sudoku</string>
+
+    <!-- Sudoku -->
+    <string name="main_title">Android Sudoku</string>
+    <string name="new_game_label">Sudoku</string>
+
+    <string name="settings_label">Opciones...</string>
+    <string name="settings_title">Opciones Sudoku</string>
+    <string name="settings_shortcut">s</string>
+    <string name="hints_title">Pistas</string>
+    <string name="hints_summary">Mostrar pistas durante el juego</string>
+
+    <string name="game_title">Game</string>
+    <string name="no_moves_label">Sin movimientos</string>
+    <string name="keypad_title">Teclado</string>
+</resources>

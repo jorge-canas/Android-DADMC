@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WebServices</string>
+    <string name="action_settings">Opciones</string>
+    <string name="tvTitle">Conversor de temperaturas</string>
+    <string name="tvValueOrigin">Valor a convertir:&#32;</string>
+    <string name="tvTempOrigin">Temperatura origen:&#32;</string>
+    <string name="tvTempDestiny">Temperatura destino:&#32;</string>
+    <string name="btnConvertSOAP">Convertir SOAP</string>
+    <string name="btnConvertHTTP">Convertir HTTP</string>
+    <string name="tvValueDestinyTxt">La temperatura es:&#32;</string>
+</resources>

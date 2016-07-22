@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Practica3.4</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="btnBecker">BECKER</string>
+    <string name="btnMachado">MACHADO</string>
+    <string name="btnQuevedo">QUEVEDO</string>
+    <string name="txtBecker">
+        Podrá nublarse el sol eternamente;
+        Podrá secarse en un instante el mar;
+        Podrá romperse el eje de la tierra
+        Como un débil cristal.
+        ¡todo sucederá! Podrá la muerte
+        Cubrirme con su fúnebre crespón;
+        Pero jamás en mí podrá apagarse
+        La llama de tu amor.
+    </string>
+    <string name="txtMachado">
+        Está en la sala familiar, sombría,
+        y entre nosotros, el querido hermano
+        que en el sueño infantil de un claro día
+        vimos partir hacia un país lejano.
+    </string>
+    <string name="txtQuevedo">
+        Yace en esta tierra fría,
+        Digna de toda crianza,
+        La vieja cuya alabanza
+        Tantas plumas merecía.
+
+        No quiso en el cielo entrar
+        A gozar de las estrellas,
+        Por no estar entre doncellas
+        Que no pudiese manchar.
+    </string>
+    <string name="title_activity_fragment2">Fragment2</string>
+</resources>

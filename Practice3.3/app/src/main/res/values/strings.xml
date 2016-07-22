@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VerURL</string>
+    <string name="action_settings">Opciones</string>
+    <string name="urlString">No se ha pasado ninguna URL</string>
+</resources>
